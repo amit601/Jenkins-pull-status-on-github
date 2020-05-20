@@ -1,6 +1,6 @@
 {
-  "name": "playground",
-  "version": "1.0.0",
+  "name": "playground-2",
+  "version": "1.0.12",
   "main": "app.js",
   "scripts": {
     "test": "jasmine-node spec"
